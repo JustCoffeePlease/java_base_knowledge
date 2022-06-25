@@ -1,7 +1,7 @@
 
 package Homework.Homework12;
 
-import Lesson_11.Student;
+import L11_primitive_and_reference_data_types_when_calling_a_method.Student;
 
 public class StudentTest {
     
